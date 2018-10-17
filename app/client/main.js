@@ -1,5 +1,6 @@
 import { Template } from 'meteor/templating';
 import { ReactiveVar } from 'meteor/reactive-var';
+import { people } from '../both/PeopleCollection';
 
 import './main.html';
 
